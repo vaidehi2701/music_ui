@@ -214,7 +214,7 @@ class _MusicPlayerScreenState extends State<MusicPlayerScreen> {
           ),
           image: DecorationImage(
             image: AssetImage(
-              "assets/ariana_grande_artist_photo_3.png",
+              "assets/darshan_raval_3.png",
             ),
             fit: BoxFit.cover,
           ),
@@ -264,7 +264,7 @@ class _MusicPlayerScreenState extends State<MusicPlayerScreen> {
         shape: BoxShape.rectangle,
         image: DecorationImage(
           image:
-          AssetImage("assets/ariana_grande_cover_no_tears_left_to_cry.jpg"),
+          AssetImage("assets/darshan_raval_first_song.jpg"),
           fit: BoxFit.cover,
         ),
       ),
